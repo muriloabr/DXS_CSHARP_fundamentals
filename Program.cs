@@ -9,7 +9,8 @@ namespace DXS_CSHARP_fundamentals {
             var allExercices = new ExamplesController(new Dictionary<string, Action>() {
                 // Fundamentals | First
                 {"Variables and Constants", VariablesAndConstants.Execute},
-                {"Segundo Programa - Comments", Comments.Execute},
+                {"Interpolation and Dot Notation", InterpolationDotNotation.Execute},
+                 {"Read and Write Values", ReadAndWriteValues.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();

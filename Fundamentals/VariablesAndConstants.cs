@@ -19,7 +19,10 @@ namespace DXS_CSHARP_fundamentals.Fundamentals
             Console.WriteLine("DECIMAL | mínimo:" + decimal.MinValue + " máximo: " + decimal.MaxValue + " tamanho: " + sizeof(decimal) + "bits");      
             //ATIBUIÇÃO DE NUMERO USANDO UNDERSCORE PARA MELHOR LEITURA
             int _integer = 2_147_483_647;
-            Console.WriteLine("15_456_656_890 = " + _integer);
+            Console.WriteLine("15_456_656_890 Ex. " + _integer);
+            //CONSTANTE
+            const int _constanteInalteravel = 1_235_235 ;
+            Console.WriteLine("const são CONSTANTES INALTERÁVEIS : " + _constanteInalteravel);
         }
     }
 
