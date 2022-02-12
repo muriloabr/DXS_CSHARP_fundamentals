@@ -10,7 +10,7 @@ namespace DXS_CSHARP_fundamentals {
                 // Fundamentals | First
                 {"Variables and Constants", VariablesAndConstants.Execute},
                 {"Interpolation and Dot Notation", InterpolationDotNotation.Execute},
-                 {"Read and Write Values", ReadAndWriteValues.Execute},
+                 {"Read, Write and Compare Values", ReadWriteAndCompareValues.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
