@@ -7,6 +7,5 @@ Aplicação e estudo dos conceitos básicos e avançados de programação em C#
  formatação de valores aritméticos, conversão de valores aritméticos, operadores: aritméticos,<br>
   de atribuição, relacionais, lógicos, unários, binários e ternários;
 - **Control structures:** if, else, switch, do, while, foreach, break, continue;<br><br>
-**✨Atualizações da linguagem + comentários.**
-
+**✨Atualizações da linguagem + comentários.**<br>
 Fique por dentro deste repositório com atualizações sempre que possível!<br>[CSHARP] #csharp
