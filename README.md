@@ -6,7 +6,7 @@ Aplicação e estudo dos conceitos básicos e avançados de programação em C#
 - **Fundamentals:** variáveis e constantes, interpolação, dot notation,<br>
  formatação de valores aritméticos, conversão de valores aritméticos, operadores: aritméticos,<br>
   de atribuição, relacionais, lógicos, unários, binários e ternários;
-- **Control structures:** if, else, switch, do, while, foreach, break, continue;
+- **Control structures:** if, else, switch, do, while, foreach, break, continue;<br>
 **✨Atualizações da linguagem + comentários.**
 
 Fique por dentro deste repositório com atualizações sempre que possível!<br>[CSHARP] #csharp
