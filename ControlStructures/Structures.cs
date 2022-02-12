@@ -104,14 +104,37 @@ namespace DXS_CSHARP_fundamentals.ControlStructures
 
             Console.WriteLine("================= SAINDO DE ESTRUTURAS USANDO BREAK ==================");
             
-            //USANDO BREAK PARA IDENTIFICAR O ITEM PROCURADO E SAIR DO LAÇO DE REPETIÇÃO
+            bool _numeroSorteadoEPar = (_numeroAleatorio % 2 == 0)?true:false;
+
+            //USANDO BREAK PARA INTERROMPER O LAÇO DE REPETIÇÃO
+            //USANDO CONTINUE PARA INTERROMPER A INTERÇÃO VIGENTE E PARTIR PARA PRÓXIMA
             for(int i = _final; i != _inicial; i--){
-                if(i == _numeroAleatorio){
-                    Console.WriteLine($"#{i} Encontramos!");
-                    break;
-                } else {
-                    Console.WriteLine($"#{i} : Não é o numero soretado!");                    
+                if(_numeroSorteadoEPar){
+                    if(i % 2 != 0)
+                    {
+                        continue;
+                    } else {
+                        if(i == _numeroAleatorio){
+                            Console.WriteLine($"#{i} Encontramos!");
+                            break;
+                        } else {
+                            Console.WriteLine($"#{i} : Não é o numero soretado!");                    
+                        }
+                    }
+                } else{
+                    if(i % 2 != 1)
+                    {
+                        continue;
+                    } else {
+                        if(i == _numeroAleatorio){
+                            Console.WriteLine($"#{i} Encontramos!");
+                            break;
+                        } else {
+                            Console.WriteLine($"#{i} : Não é o numero soretado!");                    
+                        }
+                    }
                 }
+                
             }
         }
     }
