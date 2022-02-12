@@ -123,6 +123,7 @@ namespace DXS_CSHARP_fundamentals
             Console.WriteLine($"valor = {_valorPositivo} : {(_valorPositivo-- == --_valorPositivo)}");
 
             Console.WriteLine("================= OPERADOR TERNÁRIO ==================");
+            
             //TERNARIO COMPOSTO DE: EXPRESSAO ? OPERANDO CASO TRUE : OPERANDO CASO FALSE
             Console.WriteLine($"Sua nota foi: {_nota} e a nota de corte foi: {_notaDeCorte}," +
             $" se sua nota foi suficiente ou executou os dois trabalhos você passou?" +
