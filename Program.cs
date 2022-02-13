@@ -3,6 +3,7 @@ using System.Collections.Generic;
 //IMPORTING CLASSES
 using DXS_CSHARP_fundamentals.Fundamentals;
 using DXS_CSHARP_fundamentals.ControlStructures;
+using DXS_CSHARP_fundamentals.MethodsAndClasses;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -14,6 +15,7 @@ namespace DXS_CSHARP_fundamentals {
                 {"Interpolation and Dot Notation", InterpolationDotNotation.Execute},
                 {"Read, Write and Compare Values", ReadWriteAndCompareValues.Execute},
                 // Control Structures
+                {"Methods And Classes", MethodsAndClasses.Execute},
                 {"Structures", Structures.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
