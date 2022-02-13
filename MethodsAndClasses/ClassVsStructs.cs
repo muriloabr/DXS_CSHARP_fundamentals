@@ -83,9 +83,6 @@ namespace DXS_CSHARP_fundamentals.MethodsAndClasses
             _experimento.Nome = "Outro nome";            
             Console.WriteLine($"Nome da var original: '{_experimento.Nome}' | Nome da var cópia: '{_experimento_copy.Nome}'");            
             //STRUCT VS CLASSES - FIM
-
-            //PASSANDO STRUCT POR REFERENCIA
-            
         }
     }
 }

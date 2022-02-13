@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using DXS_CSHARP_fundamentals.Fundamentals;
 using DXS_CSHARP_fundamentals.ControlStructures;
 using DXS_CSHARP_fundamentals.MethodsAndClasses;
+using DXS_CSHARP_fundamentals.Collections;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -18,12 +19,14 @@ namespace DXS_CSHARP_fundamentals {
                 {"Structures", Structures.Execute},
                 //Methods and Classes
                 {"Methods And Classes", Members.Execute},
-                {"Methods", Methods.Execute},
-                {"Parameters", Parameters.Execute},
+                {"Methods", Methods.Execute},               
                 {"Get and Seters", GetSet.Execute},
                 {"Read only", ConstantsAndReadonly.Execute},
                 {"Enumerators", Enumerators.Execute},
                 {"Structs", ClassVsStructs.Execute},
+                {"Parameters", Parameters.Execute},
+                //Collections
+                {"Arrays", Collections.Arrays.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
