@@ -118,7 +118,7 @@ namespace DXS_CSHARP_fundamentals.ControlStructures
                             Console.WriteLine($"#{i} Encontramos!");
                             break;
                         } else {
-                            Console.WriteLine($"#{i} : Não é o numero soretado!");                    
+                            Console.WriteLine($"#{i} : Não é o numero sorteado!");                    
                         }
                     }
                 } else{
@@ -130,11 +130,10 @@ namespace DXS_CSHARP_fundamentals.ControlStructures
                             Console.WriteLine($"#{i} Encontramos!");
                             break;
                         } else {
-                            Console.WriteLine($"#{i} : Não é o numero soretado!");                    
+                            Console.WriteLine($"#{i} : Não é o numero sorteado!");                    
                         }
                     }
-                }
-                
+                }                
             }
         }
     }
