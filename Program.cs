@@ -27,6 +27,13 @@ namespace DXS_CSHARP_fundamentals {
                 {"Parameters", Parameters.Execute},
                 //Collections
                 {"Arrays", Collections.Arrays.Execute},
+                {"Lists", Collections.Lists.Execute},
+                {"ArrayLists", Collections.ArrayLists.Execute},
+                {"Collections Sets", CollectionsSets.Execute},
+                {"Queues", Queues.Execute},
+                {"Collections Comparators", Comparators.Execute},
+                {"Stacks", Stacks.Execute},
+                {"Dictionaries", Dictionaries.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
