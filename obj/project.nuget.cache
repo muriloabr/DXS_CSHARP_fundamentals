@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gio6RT5QuWWoHdc3WZyZxUwPpNxa4WC49G874cs/TF2kCiZezQMLDh7DGilaMLa7syWtJ9JtnB2ezPw1QY5tQ==",
+  "success": true,
+  "projectFilePath": "E:\\MyApps\\DXS_CSHARP_fundamentals\\DXS_CSHARP_fundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xtremex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

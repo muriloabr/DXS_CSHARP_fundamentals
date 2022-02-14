@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DXS_CSHARP_fundamentals/1.0.0": {
+        "dependencies": {
+          "DXS_CSHARP_encapsulation": "1.0.0"
+        },
+        "runtime": {
+          "DXS_CSHARP_fundamentals.dll": {}
+        }
+      },
+      "DXS_CSHARP_encapsulation/1.0.0": {
+        "runtime": {
+          "DXS_CSHARP_encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DXS_CSHARP_fundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DXS_CSHARP_encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

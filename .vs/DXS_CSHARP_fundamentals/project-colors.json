@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d41475f6-db24-43e6-beab-ac1cd784c0e0": {
+      "ProjectGuid": "d41475f6-db24-43e6-beab-ac1cd784c0e0",
+      "DisplayName": "DXS_CSHARP_fundamentals",
+      "ColorIndex": 0
+    },
+    "79406bd5-c25a-4665-9fa4-a9dcdb67bc17": {
+      "ProjectGuid": "79406bd5-c25a-4665-9fa4-a9dcdb67bc17",
+      "DisplayName": "DXS_CSHARP_encapsulation",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

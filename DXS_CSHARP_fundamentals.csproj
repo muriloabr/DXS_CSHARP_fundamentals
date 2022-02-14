@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DXS_CSHARP_encapsulation\DXS_CSHARP_encapsulation.csproj" />
+  </ItemGroup>
+
 </Project>

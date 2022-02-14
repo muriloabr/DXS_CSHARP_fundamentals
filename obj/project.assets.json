@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DXS_CSHARP_encapsulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DXS_CSHARP_encapsulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DXS_CSHARP_encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DXS_CSHARP_encapsulation/1.0.0": {
+      "type": "project",
+      "path": "../DXS_CSHARP_encapsulation/DXS_CSHARP_encapsulation.csproj",
+      "msbuildProject": "../DXS_CSHARP_encapsulation/DXS_CSHARP_encapsulation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DXS_CSHARP_encapsulation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\xtremex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\MyApps\\DXS_CSHARP_fundamentals\\DXS_CSHARP_fundamentals.csproj",
+      "projectName": "DXS_CSHARP_fundamentals",
+      "projectPath": "E:\\MyApps\\DXS_CSHARP_fundamentals\\DXS_CSHARP_fundamentals.csproj",
+      "packagesPath": "C:\\Users\\xtremex\\.nuget\\packages\\",
+      "outputPath": "E:\\MyApps\\DXS_CSHARP_fundamentals\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\xtremex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\MyApps\\DXS_CSHARP_encapsulation\\DXS_CSHARP_encapsulation.csproj": {
+              "projectPath": "E:\\MyApps\\DXS_CSHARP_encapsulation\\DXS_CSHARP_encapsulation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.14, 5.0.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
