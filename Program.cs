@@ -6,6 +6,7 @@ using DXS_CSHARP_fundamentals.ControlStructures;
 using DXS_CSHARP_fundamentals.MethodsAndClasses;
 using DXS_CSHARP_fundamentals.Collections;
 using DXS_CSHARP_fundamentals.ObjectOrientation;
+using DXS_CSHARP_fundamentals.MethodsAndFunctions;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -39,6 +40,13 @@ namespace DXS_CSHARP_fundamentals {
                 {"Object Constructors", Constructors.Execute},
                 {"Object Encapsulation", Encapsulation.Execute},
                 {"Object Polymorphism", Polymorphism.Execute},
+                {"Abstract Classes", Abstract.Execute},
+                {"Interface Classes", Interface.Execute},                
+                {"Sealed", Sealed.Execute},
+                //Methods And Functions
+                {"Lambda", Lambda.Execute},
+                {"Delegate", MethodsAndFunctions.Delegate.Execute},
+                {"Extension Mxethods", ExtensionMethods.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
