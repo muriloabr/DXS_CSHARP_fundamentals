@@ -38,6 +38,7 @@ namespace DXS_CSHARP_fundamentals {
                 {"Object Inheritance", ObjectInheritance.Execute},
                 {"Object Constructors", Constructors.Execute},
                 {"Object Encapsulation", Encapsulation.Execute},
+                {"Object Polymorphism", Polymorphism.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
