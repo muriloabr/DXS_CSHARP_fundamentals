@@ -7,6 +7,8 @@ using DXS_CSHARP_fundamentals.MethodsAndClasses;
 using DXS_CSHARP_fundamentals.Collections;
 using DXS_CSHARP_fundamentals.ObjectOrientation;
 using DXS_CSHARP_fundamentals.MethodsAndFunctions;
+using DXS_CSHARP_fundamentals.Exceptions;
+using DXS_CSHARP_fundamentals.API;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -46,7 +48,12 @@ namespace DXS_CSHARP_fundamentals {
                 //Methods And Functions
                 {"Lambda", Lambda.Execute},
                 {"Delegate", MethodsAndFunctions.Delegate.Execute},
-                {"Extension Mxethods", ExtensionMethods.Execute},
+                {"Extension Methods", ExtensionMethods.Execute},
+                //Exceptions
+                {"Exception Handling", ExceptionHandling.Execute},
+                //API
+                {"Reading And Writing Files", ReadingAndWritingFiles.Execute},
+                {"Directories", Directories.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
