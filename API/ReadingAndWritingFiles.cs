@@ -74,11 +74,17 @@ namespace DXS_CSHARP_fundamentals.API
             var dados = "NADA CONSTA";
             if (File.Exists(caminhoArquivo_usado))
             {
+                //USO DO FILEINFO PARA LER DADOS
                 FileInfo informacao = new FileInfo(caminhoArquivo_usado);
                 dados = "Arquivo: " + informacao.Name + "\n";
                 dados += "ReadOnly: " + informacao.IsReadOnly + "\n";
                 dados += "Path : " + informacao.FullName + "\n";
                 dados += "Extensão: " + informacao.Extension + "\n";
+
+                //USO DO PATH PARA LER DADOS
+                dados += "Nome limpo: " + Path.GetFileNameWithoutExtension(caminhoArquivo_usado) + "\n";
+                dados += "Tem Extensão definida? : " + Path.HasExtension(caminhoArquivo_usado) + "\n";
+                dados += "Raiz : " + Path.GetPathRoot(caminhoArquivo_usado) + "\n";
             }
             return dados;
         }

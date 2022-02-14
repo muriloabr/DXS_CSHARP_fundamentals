@@ -9,6 +9,7 @@ using DXS_CSHARP_fundamentals.ObjectOrientation;
 using DXS_CSHARP_fundamentals.MethodsAndFunctions;
 using DXS_CSHARP_fundamentals.Exceptions;
 using DXS_CSHARP_fundamentals.API;
+using DXS_CSHARP_fundamentals.AdvancedTopics;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -52,8 +53,11 @@ namespace DXS_CSHARP_fundamentals {
                 //Exceptions
                 {"Exception Handling", ExceptionHandling.Execute},
                 //API
-                {"Reading And Writing Files", ReadingAndWritingFiles.Execute},
+                {"Reading and Writing Files", ReadingAndWritingFiles.Execute},
                 {"Directories", Directories.Execute},
+                {"DateTimes and TimesPan", DateTimesAndTimesPan.Execute},
+                //Advanced Topics
+                {"Linqs", Linqs.Execute},                 
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
