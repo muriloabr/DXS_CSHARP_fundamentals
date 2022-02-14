@@ -5,6 +5,7 @@ using DXS_CSHARP_fundamentals.Fundamentals;
 using DXS_CSHARP_fundamentals.ControlStructures;
 using DXS_CSHARP_fundamentals.MethodsAndClasses;
 using DXS_CSHARP_fundamentals.Collections;
+using DXS_CSHARP_fundamentals.ObjectOrientation;
 
 namespace DXS_CSHARP_fundamentals {
     class Program {
@@ -34,6 +35,8 @@ namespace DXS_CSHARP_fundamentals {
                 {"Collections Comparators", Comparators.Execute},
                 {"Stacks", Stacks.Execute},
                 {"Dictionaries", Dictionaries.Execute},
+                {"Object Inheritance", ObjectInheritance.Execute},
+                {"Object Constructors", Constructors.Execute},
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
