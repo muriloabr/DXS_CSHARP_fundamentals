@@ -3,13 +3,34 @@
 
 Aplicação e estudo dos conceitos básicos e avançados de programação em C#
 
-- **Fundamentals:** <br>variáveis e constantes, <br>interpolação, <br>dot notation,
- <br>formatação de valores aritméticos, <br>conversão de valores aritméticos, <br>operadores: aritméticos,
-  de atribuição, relacionais, lógicos, unários, binários e ternários;
-- **Control structures:** <br>if, <br>else, <br>switch, <br>do, <br>while, <br>foreach, <br>break, <br>continue;
-- **Metodos e Classes:** <br>Estruturas vs Classes, <br>readonly, <br>enumeradores enum, <br>propriedades, <br>get e set, <br>visibilidade de métodos, <br>escopo de métodos, <br>metodos de instânciação de objetos, <br>métodos de: classe, de instância, chamada encadeada de métodos, <br>parâmetros: nomeados, params, por referência, de saída;
-- **Control structures:** if, else, switch, do, while, foreach, break, continue;
-- **Control structures:** if, else, switch, do, while, foreach, break, continue;
-- **Control structures:** if, else, switch, do, while, foreach, break, continue;<br><br>
-**✨Atualizações da linguagem + comentários.**<br><br>
-Fiquem por dentro deste repositório com atualizações sempre que possível!<br>[CSHARP] #csharp
+- **Fundamentals:** variáveis e constantes, interpolação, dot notation, formatação de valores aritméticos,<br>
+conversão de valores aritméticos, operadores: aritméticos, de atribuição,<br>
+relacionais, lógicos, unários, binários e ternários;
+
+- **Control structures:** if, else, switch, do, while, foreach, break, continue;<br>
+
+- **Metodos e Classes:** Estruturas vs Classes, readonly, enumeradores enum, propriedades, get e set,<br>
+visibilidade de métodos, escopo de métodos, metodos de instânciação de objetos,<br>
+métodos de: classe, de instância, chamada encadeada de métodos,<br>
+parâmetros: nomeados, params, por referência, de saída;
+
+- **Coleções:** ArrayList, Arrays, Stacks, HashSet, comparadores: GetHashCode e Equals,<br>
+Dictionary, List<T>, Queue<T>;
+
+- **Orientação a objetos:** classes: abstratas, interface, concretas, construtores de herança,<br>
+níveis de encapsulamento, herança, implementação, virtual, override, ocultação de métodos,<br>
+polimorfismo, metodos e classes selados;
+
+- **Métodos e funções:** funções anônimas, lambdas, delegates, métodos de extensão;
+
+- **Exceções:** pipeline de excessões, tratamento, tipagem, rastreio, prevenção;
+
+- **APIs:** DateTime, TimeSpan, lendo e escrenvendo arquivos físicos, diretórios e arquivos,<br>
+IDisposables, liberação de recursos alocados;
+
+- **Tópicos Avançados:** LINQs, Nullables, Dynamics, paradigma de criação de classes genéricas;
+
+[37 SUBSISTEMS : COM TODAS AS FUNCIONALIDADES]
+
+**✨Atualizações da linguagem + comentários.**
+Fiquem por dentro deste repositório com atualizações sempre que possível![CSHARP] #csharp
