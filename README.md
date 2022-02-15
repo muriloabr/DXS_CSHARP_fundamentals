@@ -30,7 +30,7 @@ IDisposables, liberação de recursos alocados;
 
 - **Tópicos Avançados:** LINQs, Nullables, Dynamics, paradigma de criação de classes genéricas;
 
-[37 SUBSISTEMS : COM TODAS AS FUNCIONALIDADES]
+[37 SUBSYSTEMS : COM TODAS AS FUNCIONALIDADES]
 
 **✨Atualizações da linguagem + comentários.**
 Fiquem por dentro deste repositório com atualizações sempre que possível![CSHARP] #csharp
