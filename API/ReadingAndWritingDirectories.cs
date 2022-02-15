@@ -3,7 +3,7 @@ using System.IO;
 
 namespace DXS_CSHARP_fundamentals.API
 {
-    internal class Directories
+    internal class ReadingAndWritingDirectories
     {
         private static void LerDadosDoDiretorio(string caminho)
         {

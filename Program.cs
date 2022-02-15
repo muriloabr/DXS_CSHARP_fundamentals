@@ -39,6 +39,7 @@ namespace DXS_CSHARP_fundamentals {
                 {"Collections Comparators", Comparators.Execute},
                 {"Stacks", Stacks.Execute},
                 {"Dictionaries", Dictionaries.Execute},
+                //Objetc Orientation
                 {"Object Inheritance", ObjectInheritance.Execute},
                 {"Object Constructors", Constructors.Execute},
                 {"Object Encapsulation", Encapsulation.Execute},
@@ -54,7 +55,7 @@ namespace DXS_CSHARP_fundamentals {
                 {"Exception Handling", ExceptionHandling.Execute},
                 //API
                 {"Reading and Writing Files", ReadingAndWritingFiles.Execute},
-                {"Directories", Directories.Execute},
+                {"Reading and Writing Directories", ReadingAndWritingDirectories.Execute},
                 {"DateTimes and TimesPan", DateTimesAndTimesPan.Execute},
                 //Advanced Topics
                 {"Linqs", Linqs.Execute},
