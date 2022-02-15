@@ -19,7 +19,8 @@ Dictionary, List<T>, Queue<T>;
 
 - **Orientação a objetos:** classes: abstratas, interface, concretas, construtores de herança,<br>
 níveis de encapsulamento, herança, implementação, virtual, override, ocultação de métodos,<br>
-polimorfismo, metodos e classes selados;
+polimorfismo, metodos e classes selados;<br>
+**Projeto de composição deste módulo: [DXS_CSHARP_encapsulation](https://github.com/muriloabr/DXS_CSHARP_encapsulation)**
 
 - **Métodos e funções:** funções anônimas, lambdas, delegates, métodos de extensão;
 
