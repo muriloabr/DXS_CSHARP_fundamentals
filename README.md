@@ -33,4 +33,4 @@ IDisposables, liberação de recursos alocados;
 [37 SUBSYSTEMS : COM TODAS AS FUNCIONALIDADES]
 
 **✨Atualizações da linguagem + comentários.**<br>
-Fiquem por dentro deste repositório com atualizações sempre que possível![CSHARP] #csharp
+Fiquem por dentro deste repositório com atualizações sempre que possível!<br>[CSHARP] #csharp
