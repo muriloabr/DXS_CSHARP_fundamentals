@@ -57,7 +57,10 @@ namespace DXS_CSHARP_fundamentals {
                 {"Directories", Directories.Execute},
                 {"DateTimes and TimesPan", DateTimesAndTimesPan.Execute},
                 //Advanced Topics
-                {"Linqs", Linqs.Execute},                 
+                {"Linqs", Linqs.Execute},
+                {"Nullables", Nullables.Execute},
+                {"Dynamics", Dynamics.Execute},
+                {"Generics", Generics.Execute},                
             });
             //INCIO O SISTEMA DE ESCOLHA PARA RODAR O EXEMPLO QUE VAI SER ESCOLHIDO!
             allExercices.SelectAndExecuteTheExample();
