@@ -18,7 +18,7 @@
 **Orientação a objetos:**
 - Classes: abstratas, interface, concretas, construtores de herança, níveis de encapsulamento, herança, implementação, virtual, override, ocultação de métodos, polimorfismo, metodos e classes selados;  
   
-**Projeto de composição deste módulo: [DXS_CSHARP_encapsulation](https://github.com/muriloabr/DXS_CSHARP_encapsulation)**  
+- **Projeto de composição deste módulo: [DXS_CSHARP_encapsulation](https://github.com/muriloabr/DXS_CSHARP_encapsulation)**  
 
 **Métodos e funções:**
 - funções anônimas, lambdas, delegates, métodos de extensão;  
