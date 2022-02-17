@@ -3,10 +3,10 @@
 
 **Aplicação e estudo dos conceitos básicos e avançados de programação em C#**  
 
-**Fundamentals:**
+**Fundamentos:**
 - Variáveis e constantes, interpolação, dot notation, formatação de valores aritméticos, conversão de valores aritméticos, operadores: aritméticos, de atribuição, relacionais, lógicos, unários, binários e ternários;  
 
-**Control structures:** 
+**Estruturas de controle:** 
 - If, else, switch, do, while, foreach, break, continue;  
 
 **Metodos e Classes:**
